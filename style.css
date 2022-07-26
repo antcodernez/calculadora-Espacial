@@ -11,6 +11,10 @@ html
 :root
     {
         --sd: 1.4rem;
-        --md: 1.6rem;
-        --bd: 1.8rem; 
+        --md: 1.8rem;
+        --bd: 2.4rem; 
+    }
+body
+    {
+        font-size: var(--md);
     }
